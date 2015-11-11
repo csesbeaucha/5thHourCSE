@@ -370,7 +370,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 10:
         if getting_team_name:
-            return 'algorithm 2'
+            return 'player 10 final'
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
