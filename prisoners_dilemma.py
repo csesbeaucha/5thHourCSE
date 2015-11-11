@@ -374,15 +374,12 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
         else:
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
-            rounds=1
-            if rounds <= 3: #It's the first three rounds: betray
-                rounds+=1
+            if len(opponent_history) < 3: #It's the first three rounds: betray
                 return 'b'
-            elif 'c' in opponent_history[-3:-1]:
-                rounds+=1
+            elif opponent_history[-3]=='c' or opponent_history[-2]=='c' or opponent_history[-1]=='c':
                 return 'c' # collude if partner colluded in the last three rounds
-            elif opponent_history[-3:-1]=='bbb':
-                return 'b' #betray if partner betrayed in the last three rounds
+            else:
+                return 'b' #betray if partner only betrayed in the last three rounds
 
 
 
