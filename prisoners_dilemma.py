@@ -307,15 +307,11 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             return 'ian'
         else:
             if len(opponent_history)==0:
-                return "c"
+                return 'c'
+            if 'b' in opponent_history:
+                return 'b'
             else:
-                if opponent_history[0]=='c':
-                    return 'c'
-                else:
-                    return 'b'
-                    
-                
-
+                return 'c'
                 
 
 
