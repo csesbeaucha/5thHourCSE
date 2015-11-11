@@ -438,12 +438,12 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 13:
         if getting_team_name:
-            return 'backstabberkindaloyalJG'
+            return 'backstabber/loyalJG'
         else:
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='c':
-                return 'b' # betray to gain if they collude again
+                return 'c' # betray to gain if they collude again
             else:
                 return 'c' #otherwise collude
     
