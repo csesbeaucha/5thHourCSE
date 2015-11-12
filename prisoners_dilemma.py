@@ -1,9 +1,6 @@
 from __future__ import print_function
 
-<<<<<<< HEAD
-''' Justin Guilak
-=======
-''' Sarah Widder
+'''
 >>>>>>> refs/remotes/origin/master
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
