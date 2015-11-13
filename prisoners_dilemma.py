@@ -1,14 +1,13 @@
 from __future__ import print_function
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ''' Josh Glover
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> refs/remotes/origin/master
-''' Isaiah Hayward
+ Isaiah Hayward
 ======= Sarah Widder
 >>>>>>> refs/remotes/csesbeaucha/master
 =======
