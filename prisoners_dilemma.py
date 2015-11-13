@@ -1,6 +1,9 @@
 from __future__ import print_function
 
 <<<<<<< HEAD
+''' Tony Lee
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 ''' Josh Glover
 =======
@@ -15,6 +18,7 @@ from __future__ import print_function
 
 >>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
 >>>>>>> refs/remotes/csesbeaucha/master
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
@@ -191,7 +195,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######
     #
-    elif player == 3:
+    elif player == 90:
         if getting_team_name:
             return 'loyal vengeful'
         else:
@@ -219,17 +223,22 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 4:
         if getting_team_name:
-            return 'betray every 3rd round'
+            return 'user1'
         else:
-            # use history, opponent_history, score, opponent_score
-            # to compute your strategy
-            size = len(history)
-            if(size%3==0): #the number of rounds played is a multiple of 3
+            if len(opponent_history)==0:
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b'
+            elif history[-1]=='b' and opponent_history[-1]=='c':
+                return 'b'
+            elif history[-1]=='b' and opponent_history[-1]=='b':
+                return 'b'
+            elif history[-1]=='c' and opponent_history[-1]=='c':
                 return 'c'
             else:
+                return 'c'
+            if len(opponent_history)==2 and history[-1]=='c' and history[-2]=='c' and opponent_history[-1]=='c' and opponent_history[-2]=='c':
                 return 'b'
-    
-    
     
 
 
@@ -241,7 +250,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
  ######
     ######
     #
-    elif player == 5:
+    elif player == 91:
         if getting_team_name:
             return 'loyal w/ breaking point'
         else:
@@ -388,7 +397,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######        
     #
-    elif player == 8:
+    elif player == 3:
         if getting_team_name:
             #if there was a previous round just like 
             return 'ian'
@@ -525,7 +534,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######
     #
-    elif player == 14:
+    elif player == 5:
         if getting_team_name:
             return 'Isaiah'
         else:
