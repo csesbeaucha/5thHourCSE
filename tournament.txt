@@ -1,92 +1,92 @@
 team 1 vs. team 0
 100 vs. -500
 backstabber vs. loyal
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 2 vs. team 0
 0 vs. 0
 loyal vengeful vs. loyal
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 2 vs. team 1
--376 vs. -75
+-375 vs. -75
 loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 3 vs. team 0
 0 vs. 0
-loyal vengeful vs. loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+loyal vengeful with permanent second impression vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 3 vs. team 1
--376 vs. -75
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+-255 vs. -244
+loyal vengeful with permanent second impression vs. backstabber
+cbcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 3 vs. team 2
 0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+loyal vengeful with permanent second impression vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 0
 0 vs. 0
-backstabber vs. loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+user1 vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 1
--253 vs. -247
-backstabber vs. backstabber
-cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+-252 vs. -248
+user1 vs. backstabber
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 4 vs. team 2
 0 vs. 0
-backstabber vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+user1 vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 3
 0 vs. 0
-backstabber vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+user1 vs. loyal vengeful with permanent second impression
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 0
-0 vs. 0
-loyal vengeful vs. loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+4 vs. -24
+loyal vengeful occasionally greedy vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccbccccccbcccccccccbcccccccccbbccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 1
--376 vs. -75
-loyal vengeful vs. backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+-368 vs. -86
+loyal vengeful occasionally greedy vs. backstabber
+cbbcbcbcbcbcbcbcbcbcbcbbcbbcbbcbbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 5 vs. team 2
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+-144 vs. -149
+loyal vengeful occasionally greedy vs. loyal vengeful
+cccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccccccccccccccccccccbcbcbcbcbcbcbcbcbc
+ccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccccccccccccccccccccccccbcbcbcbcbcbcbcbcb
 
 team 5 vs. team 3
-0 vs. 0
-loyal vengeful vs. loyal vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+-196 vs. -200
+loyal vengeful occasionally greedy vs. loyal vengeful with permanent second impression
+cccbcbcbbcbcbcbcbcbcbcbcbcbbcbcbbbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbc
+ccccbcbcbccbcbcbcbcbcbcbcbcbbcbcbbbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcb
 
 team 5 vs. team 4
-0 vs. 0
-loyal vengeful vs. backstabber
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+-346 vs. -86
+loyal vengeful occasionally greedy vs. user1
+cccccccbcbcbbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbbcbcb
+ccccccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 
 
@@ -95,23 +95,23 @@ cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 
 	P0	P1	P2	P3	P4	P5	
-P0	0	100	0	0	0	0	
-P1	-500	0	-376	-376	-253	-376	
-P2	0	-75	0	0	0	0	
-P3	0	-75	0	0	0	0	
-P4	0	-247	0	0	0	0	
-P5	0	-75	0	0	0	0	
-Total:	-500	-368	-375	-375	-252	-375	
+P0	0	100	0	0	0	4	
+P1	-500	0	-375	-255	-252	-368	
+P2	0	-75	0	0	0	-144	
+P3	0	-244	0	0	0	-196	
+P4	0	-248	0	0	0	-346	
+P5	-24	-86	-149	-200	-86	0	
+Total:	-523	-551	-523	-453	-336	-1047	
 
 
  Average per round, with team strategy names:
 
-player 0: -84 points: loyal
-player 1: -62 points: backstabber
-player 2: -63 points: loyal vengeful
-player 3: -63 points: loyal vengeful
-player 4: -42 points: backstabber
-player 5: -63 points: loyal vengeful
+player 0: -88 points: loyal
+player 1: -92 points: backstabber
+player 2: -88 points: loyal vengeful
+player 3: -76 points: loyal vengeful with permanent second impression
+player 4: -56 points: user1
+player 5: -175 points: loyal vengeful occasionally greedy
 
 
 -------------------------------------------------------------------------------
@@ -292,7 +292,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######
     #
-    elif player == 3:
+    elif player == 90:
         if getting_team_name:
             return 'loyal vengeful'
         else:
@@ -320,7 +320,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 4:
         if getting_team_name:
-            return 'backstabber'
+            return 'user1'
         else:
             if len(opponent_history)==0:
                 return 'c'
@@ -333,10 +333,9 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             elif history[-1]=='c' and opponent_history[-1]=='c':
                 return 'c'
             else:
+                return 'c'
+            if len(opponent_history)==2 and history[-1]=='c' and history[-2]=='c' and opponent_history[-1]=='c' and opponent_history[-2]=='c':
                 return 'b'
-                
-    
-    
     
 
 
@@ -349,7 +348,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######        
     #
-    elif player == 5:
+    elif player == 91:
         if getting_team_name:
             return 'loyal vengeful'
         else:
@@ -425,7 +424,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######        
     #
-    elif player == 8:
+    elif player == 3:
         if getting_team_name:
             #if there was a previous round just like 
             return 'loyal vengeful with permanent second impression'
@@ -583,7 +582,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######
     #
-    elif player == 14:
+    elif player == 5:
         if getting_team_name:
             return 'loyal vengeful occasionally greedy'
         else:

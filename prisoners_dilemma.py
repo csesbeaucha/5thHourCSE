@@ -173,7 +173,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######
     #
-    elif player == 3:
+    elif player == 90:
         if getting_team_name:
             return 'loyal vengeful'
         else:
@@ -201,7 +201,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 4:
         if getting_team_name:
-            return 'backstabber'
+            return 'user1'
         else:
             if len(opponent_history)==0:
                 return 'c'
@@ -214,9 +214,9 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             elif history[-1]=='c' and opponent_history[-1]=='c':
                 return 'c'
             else:
+                return 'c'
+            if len(opponent_history)==2 and history[-1]=='c' and history[-2]=='c' and opponent_history[-1]=='c' and opponent_history[-2]=='c':
                 return 'b'
-    
-    
     
 
 
@@ -229,7 +229,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######        
     #
-    elif player == 5:
+    elif player == 91:
         if getting_team_name:
             return 'loyal vengeful'
         else:
@@ -305,7 +305,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######        
     #
-    elif player == 8:
+    elif player == 3:
         if getting_team_name:
             #if there was a previous round just like 
             return 'loyal vengeful with permanent second impression'
@@ -463,7 +463,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######
     #
-    elif player == 14:
+    elif player == 5:
         if getting_team_name:
             return 'loyal vengeful occasionally greedy'
         else:
