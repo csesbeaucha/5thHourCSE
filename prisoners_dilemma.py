@@ -1,13 +1,10 @@
 from __future__ import print_function
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ''' Isaiah Hayward
-=======
-''' Sarah Widder
+======= Sarah Widder
 >>>>>>> refs/remotes/csesbeaucha/master
 =======
-'''
+
 >>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
 PrisonerDilemma.py allows hard-coding different strategies
