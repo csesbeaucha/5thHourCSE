@@ -1,5 +1,13 @@
 from __future__ import print_function
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+''' Josh Glover
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
 ''' Isaiah Hayward
 ======= Sarah Widder
 >>>>>>> refs/remotes/csesbeaucha/master
@@ -7,6 +15,7 @@ from __future__ import print_function
 
 >>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
 Each strategy plays 100 to 200 rounds against each other strategy.
@@ -485,12 +494,12 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 13:
         if getting_team_name:
-            return 'loyal vengeful'
+            return 'backstabber/loyalJG'
         else:
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray is they were severely punished last time
+            elif history[-1]=='c' and opponent_history[-1]=='c':
+                return 'b' # betray to gain if they collude again
             else:
                 return 'c' #otherwise collude
     
