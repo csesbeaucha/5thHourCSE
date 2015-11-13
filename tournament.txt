@@ -1,8 +1,103 @@
 team 1 vs. team 0
 100 vs. -500
 backstabber vs. loyal
+<<<<<<< HEAD
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+=======
+<<<<<<< HEAD
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 2 vs. team 0
+0 vs. 0
+loyal vengeful vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 2 vs. team 1
+-375 vs. -75
+loyal vengeful vs. backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 3 vs. team 0
+0 vs. 0
+loyal vengeful with permanent second impression vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 3 vs. team 1
+-255 vs. -244
+loyal vengeful with permanent second impression vs. backstabber
+cbcbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 3 vs. team 2
+0 vs. 0
+loyal vengeful with permanent second impression vs. loyal vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 4 vs. team 0
+0 vs. 0
+user1 vs. loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 4 vs. team 1
+-252 vs. -248
+user1 vs. backstabber
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 4 vs. team 2
+0 vs. 0
+user1 vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 4 vs. team 3
+0 vs. 0
+user1 vs. loyal vengeful with permanent second impression
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 0
+4 vs. -24
+loyal vengeful occasionally greedy vs. loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccbccccccbcccccccccbcccccccccbbccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 5 vs. team 1
+-368 vs. -86
+loyal vengeful occasionally greedy vs. backstabber
+cbbcbcbcbcbcbcbcbcbcbcbbcbbcbbcbbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 5 vs. team 2
+-144 vs. -149
+loyal vengeful occasionally greedy vs. loyal vengeful
+cccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccccccccccccccccccccbcbcbcbcbcbcbcbcbc
+ccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccccccccccccccccccccccccbcbcbcbcbcbcbcbcb
+
+team 5 vs. team 3
+-196 vs. -200
+loyal vengeful occasionally greedy vs. loyal vengeful with permanent second impression
+cccbcbcbbcbcbcbcbcbcbcbcbcbbcbcbbbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbc
+ccccbcbcbccbcbcbcbcbcbcbcbcbbcbcbbbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcb
+
+team 5 vs. team 4
+-346 vs. -86
+loyal vengeful occasionally greedy vs. user1
+cccccccbcbcbbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbcbcbcbcbcbcbbcbcbcbcbcbcbcbcbbcbbcbcbcbcbcbcbbcbcb
+ccccccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+>>>>>>> origin/master
 
 team 2 vs. team 0
 0 vs. 0
@@ -623,10 +718,21 @@ cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
 bcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
 
 team 14 vs. team 13
+<<<<<<< HEAD
 -135 vs. -132
 Isaiah vs. backstabber/loyalJG
 ccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbcc
 cbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccb
+=======
+-87 vs. -102
+loyal vengeful occasionally greedy vs. loyal vengeful
+cccccccccccccccccccccccccccccccccccbcbcbbccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbbccccccccccccccccccccbcbcbcbcbcbcbcb
+ccccccccccccccccccccccccccccccccccccbcbcbcccccccccccbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcccccccccccccccccccccbcbcbcbcbcbcbc
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 
 
@@ -634,6 +740,7 @@ cbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccbccb
 	Each column shows score earned per round against each other player.
 
 
+<<<<<<< HEAD
 	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	P14	
 P0	0	100	0	0	66	0	99	0	0	0	2	0	0	50	0	
 P1	-500	0	-375	-376	-334	-252	-252	-16	-252	-322	-250	-252	-375	-500	-252	
@@ -651,10 +758,133 @@ P12	-3	-75	-200	-202	-52	-79	-79	-16	-79	-5	-4	-203	0	-137	-200
 P13	-250	100	-133	-136	-50	93	95	-9	94	-148	-243	-134	-131	0	-135	
 P14	0	-248	0	0	-215	0	-247	0	0	0	-10	0	-200	-132	0	
 Total:	-1593	-1809	-1337	-1345	-1988	-869	-1830	-83	-868	-1029	-1614	-1066	-2688	-2915	-1061	
+=======
+<<<<<<< HEAD
+	P0	P1	P2	P3	P4	P5	
+P0	0	100	0	0	0	4	
+P1	-500	0	-375	-255	-252	-368	
+P2	0	-75	0	0	0	-144	
+P3	0	-244	0	0	0	-196	
+P4	0	-248	0	0	0	-346	
+P5	-24	-86	-149	-200	-86	0	
+Total:	-523	-551	-523	-453	-336	-1047	
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	P0	P1	P2	P3	P4	P5	P6	P7	
+P0	0	100	0	0	66	0	99	0	
+P1	-500	0	-376	-377	-334	-376	-252	-375	
+P2	0	-74	0	0	-50	0	-74	0	
+P3	0	-74	0	0	-50	0	-73	0	
+P4	-333	-133	-248	-250	0	-249	-136	-250	
+P5	0	-75	0	0	-50	0	-74	0	
+P6	-498	-248	-374	-373	-330	-374	0	-374	
+P7	0	-75	0	0	-49	0	-74	0	
+Total:	-1329	-576	-997	-999	-795	-997	-581	-998	
+=======
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	
+P0	0	100	0	0	66	0	0	0	0	0	0	0	0	0	
+P1	-500	0	-377	-376	-335	-375	-376	-376	-253	-377	-375	-375	-375	-500	
+P2	0	-74	0	0	-49	0	0	0	0	0	0	0	0	0	
+P3	0	-74	0	0	-49	0	0	0	0	0	0	0	0	0	
+P4	-331	-132	-250	-250	0	-250	-250	-250	-218	-250	-250	-250	-250	-334	
+P5	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	
+P6	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	
+P7	0	-74	0	0	-50	0	0	0	0	0	0	0	0	0	
+P8	0	-246	0	0	-211	0	0	0	0	0	0	0	0	0	
+P9	0	-74	0	0	-50	0	0	0	0	0	0	0	0	0	
+P10	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	
+P11	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	
+P12	0	-75	0	0	-49	0	0	0	0	0	0	0	0	0	
+P13	0	100	0	0	66	0	0	0	0	0	0	0	0	0	
+Total:	-830	-845	-626	-625	-858	-625	-625	-625	-470	-626	-625	-625	-625	-833	
+>>>>>>> refs/remotes/origin/master
+=======
+<<<<<<< HEAD
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	P14	P15	P16	P17	
+P0	0	100	0	0	66	0	0	0	0	0	0	0	0	0	10	0	0	0	
+P1	-500	0	-375	-376	-334	-375	-375	-376	-252	-375	-376	-375	-375	-375	-367	-375	-377	-377	
+P2	0	-75	0	0	-49	0	0	0	0	0	0	0	0	0	-152	0	0	0	
+P3	0	-74	0	0	-49	0	0	0	0	0	0	0	0	0	-73	0	0	0	
+P4	-331	-134	-250	-250	0	-250	-250	-248	-136	-250	-250	-249	-250	-250	-243	-249	-248	-249	
+P5	0	-75	0	0	-49	0	0	0	0	0	0	0	0	0	-170	0	0	0	
+P6	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-73	0	0	0	
+P7	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-152	0	0	0	
+P8	0	-249	0	0	-328	0	0	0	0	0	0	0	0	0	-338	0	0	0	
+P9	0	-75	0	0	-49	0	0	0	0	0	0	0	0	0	-104	0	0	0	
+P10	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-90	0	0	0	
+P11	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-143	0	0	0	
+P12	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-137	0	0	0	
+P13	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-77	0	0	0	
+P14	-53	-88	-177	-86	-74	-195	-92	-170	-76	-115	-115	-166	-159	-95	0	-146	-151	-170	
+P15	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	-121	0	0	0	
+P16	0	-74	0	0	-50	0	0	0	0	0	0	0	0	0	-123	0	0	0	
+P17	0	-74	0	0	-50	0	0	0	0	0	0	0	0	0	-154	0	0	0	
+Total:	-882	-1337	-801	-711	-1310	-819	-716	-793	-463	-739	-740	-788	-783	-719	-2498	-769	-774	-794	
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	P14	P15	
+P0	0	100	0	0	66	0	0	0	0	0	0	0	0	0	0	0	
+P1	-500	0	-376	-375	-335	-375	-375	-375	-254	-376	-376	-377	-375	-376	0	-376	
+P2	0	-74	0	0	-49	0	0	0	0	0	0	0	0	0	0	0	
+P3	0	-75	0	0	-49	0	0	0	0	0	0	0	0	0	0	0	
+P4	-333	-132	-250	-250	0	-249	-250	-250	-216	-250	-250	-249	-250	-250	0	-249	
+P5	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	0	0	
+P6	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	0	0	
+P7	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	0	0	
+P8	0	-246	0	0	-211	0	0	0	0	0	0	0	0	0	0	0	
+P9	0	-74	0	0	-49	0	0	0	0	0	0	0	0	0	0	0	
+P10	0	-74	0	0	-49	0	0	0	0	0	0	0	0	0	0	0	
+P11	0	-74	0	0	-50	0	0	0	0	0	0	0	0	0	0	0	
+P12	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	0	0	
+P13	0	-74	0	0	-50	0	0	0	0	0	0	0	0	0	0	0	
+P14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+P15	0	-75	0	0	-50	0	0	0	0	0	0	0	0	0	0	0	
+Total:	-832	-1095	-625	-625	-1021	-623	-625	-625	-469	-625	-625	-624	-625	-625	0	-624	
+=======
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	
+P0	0	100	0	0	66	0	0	0	0	0	2	
+P1	-500	0	-375	-375	-334	-375	-376	-375	-253	-375	-250	
+P2	0	-75	0	0	-49	0	0	0	0	0	-5	
+P3	0	-75	0	0	-50	0	0	0	0	0	-5	
+P4	-334	-133	-250	-250	0	-250	-250	-250	-219	-250	-329	
+P5	0	-75	0	0	-49	0	0	0	0	0	-6	
+P6	0	-74	0	0	-50	0	0	0	0	0	-4	
+P7	0	-75	0	0	-49	0	0	0	0	0	-3	
+P8	0	-247	0	0	-208	0	0	0	0	0	-5	
+P9	0	-75	0	0	-50	0	0	0	0	0	-5	
+P10	-11	-250	-10	-9	59	-11	-8	-6	-10	-10	0	
+Total:	-844	-977	-634	-633	-710	-635	-633	-630	-479	-634	-605	
+>>>>>>> refs/remotes/csesbeaucha/master
+=======
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	P12	P13	P14	
+P0	0	100	0	0	66	0	0	0	0	0	1	0	0	0	13	
+P1	-500	0	-375	-377	-334	-376	-376	-16	-255	-328	-250	-252	-375	-376	-375	
+P2	0	-75	0	0	-50	0	0	0	0	0	-4	0	-200	0	-133	
+P3	0	-74	0	0	-50	0	0	0	0	0	-4	0	-198	0	-128	
+P4	-333	-134	-249	-250	0	-249	-250	-11	-218	-243	-327	-218	-248	-249	-245	
+P5	0	-74	0	0	-50	0	0	0	0	0	-4	0	-199	0	-106	
+P6	0	-75	0	0	-49	0	0	0	0	0	-4	0	-200	0	-121	
+P7	0	-13	0	0	-11	0	0	0	0	0	-10	0	-12	0	0	
+P8	0	-243	0	0	-212	0	0	0	0	0	-4	0	-200	0	-169	
+P9	0	-142	0	0	-149	0	0	0	0	0	-1	0	-20	0	-62	
+P10	-9	-250	-8	-7	56	-8	-7	-10	-7	-11	0	-13	-7	-9	-4	
+P11	0	-248	0	0	-214	0	0	0	0	0	-13	0	-200	0	-194	
+P12	-5	-75	-200	-203	-54	-202	-200	-12	-200	-23	-3	-200	0	-200	-153	
+P13	0	-75	0	0	-50	0	0	0	0	0	-4	0	-200	0	-87	
+P14	-68	-77	-171	-148	-77	-141	-147	0	-173	-99	-33	-198	-168	-102	0	
+Total:	-911	-1449	-1001	-982	-1172	-973	-978	-47	-852	-701	-652	-878	-2222	-933	-1757	
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 
  Average per round, with team strategy names:
 
+<<<<<<< HEAD
 player 0: -107 points: loyal
 player 1: -121 points: backstabber
 player 2: -90 points: loyal vengeful
@@ -670,6 +900,114 @@ player 11: -72 points: Albert
 player 12: -180 points: loyal vengeful
 player 13: -195 points: backstabber/loyalJG
 player 14: -71 points: Isaiah
+=======
+<<<<<<< HEAD
+player 0: -88 points: loyal
+player 1: -92 points: backstabber
+player 2: -88 points: loyal vengeful
+player 3: -76 points: loyal vengeful with permanent second impression
+player 4: -56 points: user1
+player 5: -175 points: loyal vengeful occasionally greedy
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+player 0: -167 points: loyal
+player 1: -72 points: backstabber
+player 2: -125 points: loyal vengeful
+player 3: -125 points: loyal vengeful
+player 4: -100 points: betray every 3rd round
+player 5: -125 points: loyal vengeful
+player 6: -73 points: Winner
+player 7: -125 points: loyal vengeful
+=======
+player 0: -60 points: loyal
+player 1: -61 points: backstabber
+player 2: -45 points: loyal vengeful
+player 3: -45 points: loyal vengeful
+player 4: -62 points: betray every 3rd round
+player 5: -45 points: loyal vengeful
+player 6: -45 points: loyal vengeful
+player 7: -45 points: loyal vengeful
+player 8: -34 points: loyal vengeful with permanent second impression
+player 9: -45 points: loyal vengeful
+player 10: -45 points: loyal vengeful
+player 11: -45 points: loyal vengeful
+player 12: -45 points: loyal vengeful
+player 13: -60 points: backstabber/loyalJG
+>>>>>>> refs/remotes/origin/master
+=======
+<<<<<<< HEAD
+player 0: -49 points: loyal
+player 1: -75 points: backstabber
+player 2: -45 points: loyal vengeful
+player 3: -40 points: loyal vengeful
+player 4: -73 points: betray every 3rd round
+player 5: -46 points: loyal vengeful
+player 6: -40 points: loyal vengeful
+player 7: -45 points: loyal vengeful
+player 8: -26 points: ian
+player 9: -42 points: loyal vengeful
+player 10: -42 points: loyal vengeful
+player 11: -44 points: loyal vengeful
+player 12: -44 points: loyal vengeful
+player 13: -40 points: loyal vengeful
+player 14: -139 points: loyal vengeful occasionally greedy
+player 15: -43 points: loyal vengeful
+player 16: -43 points: loyal vengeful
+player 17: -45 points: loyal vengeful
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+player 0: -52 points: loyal
+player 1: -69 points: backstabber
+player 2: -40 points: loyal vengeful
+player 3: -40 points: loyal vengeful
+player 4: -64 points: betray every 3rd round
+player 5: -39 points: loyal vengeful
+player 6: -40 points: loyal vengeful
+player 7: -40 points: loyal vengeful
+player 8: -30 points: loyal vengeful with permanent second impression
+player 9: -40 points: loyal vengeful
+player 10: -40 points: loyal vengeful
+player 11: -39 points: loyal vengeful
+player 12: -40 points: loyal vengeful
+player 13: -40 points: loyal vengeful
+player 14: 0 points: Isaiah
+player 15: -39 points: loyal vengeful
+=======
+player 0: -77 points: loyal
+player 1: -89 points: backstabber
+player 2: -58 points: loyal vengeful
+player 3: -58 points: loyal vengeful
+player 4: -65 points: betray every 3rd round
+player 5: -58 points: loyal vengeful
+player 6: -58 points: loyal vengeful
+player 7: -58 points: loyal vengeful
+player 8: -44 points: loyal vengeful with permanent second impression
+player 9: -58 points: loyal vengeful
+player 10: -55 points: player 10 final
+>>>>>>> refs/remotes/csesbeaucha/master
+=======
+player 0: -61 points: loyal
+player 1: -97 points: backstabber
+player 2: -67 points: loyal vengeful
+player 3: -66 points: loyal vengeful
+player 4: -79 points: betray every 3rd round
+player 5: -65 points: loyal vengeful
+player 6: -66 points: loyal vengeful
+player 7: -4 points: justin
+player 8: -57 points: loyal vengeful with permanent second impression
+player 9: -47 points: nice chance
+player 10: -44 points: player 10 final
+player 11: -59 points: Albert
+player 12: -149 points: loyal vengeful
+player 13: -63 points: loyal vengeful
+player 14: -118 points: loyal vengeful occasionally greedy
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 
 -------------------------------------------------------------------------------
@@ -677,7 +1015,17 @@ Here is the code that produced this data:
 
 from __future__ import print_function
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+''' Tony Lee
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+''' 
+=======
+>>>>>>> origin/master
 ''' Josh Glover
 =======
 <<<<<<< HEAD
@@ -692,6 +1040,11 @@ from __future__ import print_function
 >>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/csesbeaucha/master
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
 Each strategy plays 100 to 200 rounds against each other strategy.
@@ -709,7 +1062,20 @@ CSE Project 1.3.5 Collaborating on a Project
 Draft, Do Not Distribute
 Version 8/23/2013 
 '''
+<<<<<<< HEAD
 '''ianhudson'''
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+'''ianhudson'''
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 import random
 def play_round(player1, player2, history1, history2, score1, score2):
@@ -796,9 +1162,23 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     betray. The function should return one character, 'c' or 'b'. 
     The history strings have the first round between these two players 
     as the first character and the most recent round as the last character.'''
+<<<<<<< HEAD
     
     times = 0
             
+=======
+<<<<<<< HEAD
+      
+=======
+<<<<<<< HEAD
+      
+=======
+    
+    times = 0
+            
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
     ######
     ######
     #
@@ -867,7 +1247,11 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######
     #
+<<<<<<< HEAD
+    elif player == 90:
+=======
     elif player == 3:
+>>>>>>> refs/remotes/csesbeaucha/master
         if getting_team_name:
             return 'loyal vengeful'
         else:
@@ -895,6 +1279,25 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 4:
         if getting_team_name:
+<<<<<<< HEAD
+            return 'user1'
+        else:
+            if len(opponent_history)==0:
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b'
+            elif history[-1]=='b' and opponent_history[-1]=='c':
+                return 'b'
+            elif history[-1]=='b' and opponent_history[-1]=='b':
+                return 'b'
+            elif history[-1]=='c' and opponent_history[-1]=='c':
+                return 'c'
+            else:
+                return 'c'
+            if len(opponent_history)==2 and history[-1]=='c' and history[-2]=='c' and opponent_history[-1]=='c' and opponent_history[-2]=='c':
+                return 'b'
+    
+=======
             return 'betray every 3rd round'
         else:
             # use history, opponent_history, score, opponent_score
@@ -907,6 +1310,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     
     
     
+>>>>>>> refs/remotes/csesbeaucha/master
 
 
 
@@ -917,7 +1321,11 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
  ######
     ######
     #
+<<<<<<< HEAD
+    elif player == 91:
+=======
     elif player == 5:
+>>>>>>> refs/remotes/csesbeaucha/master
         if getting_team_name:
             return 'loyal w/ breaking point'
         else:
@@ -945,6 +1353,12 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 6:
         if getting_team_name:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
             return 'Winner'
         else:
             # use history, opponent_history, score, opponent_score
@@ -967,6 +1381,26 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'b'           
             else:
                 return 'c'
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+    
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 
 
@@ -981,6 +1415,28 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######       
     #
     elif player == 7:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/csesbeaucha/master
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were sucker last time
+            else:
+                return 'c' #otherwise collude
+
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/master
         bs = 0
         cs = 0
         run = 0
@@ -1051,6 +1507,11 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             else:
                 times = 0
                 return 'b'
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 
 
@@ -1064,6 +1525,11 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######        
     #
+<<<<<<< HEAD
+    elif player == 3:
+        if getting_team_name:
+            #if there was a previous round just like 
+=======
     elif player == 8:
         if getting_team_name:
             #if there was a previous round just like 
@@ -1077,6 +1543,44 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
                 
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+            return 'loyal vengeful with permanent second impression'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy      
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            else:
+                # if there was a previous round just like the last one,
+                # do whatever they did in the round that followed it
+                recent_round_opponent = opponent_history[-1]
+                recent_round_me = history[-1]
+                            
+                #go through rounds before that one
+                for round in range(len(history)-1):
+                    prior_round_opponent = opponent_history[round]
+                    prior_round_me = history[round]
+                    #if one matches
+                    if (prior_round_me == recent_round_me) and \
+                            (prior_round_opponent == recent_round_opponent):
+                        return opponent_history[round]
+                # no match found
+                if history[-1]=='c' and opponent_history[-1]=='b':
+                    return 'b' # betray is they were severely punished last time
+                else:
+                    return 'c' #otherwise collude
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 
 
@@ -1093,6 +1597,19 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     #
     elif player == 9:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> origin/master
         chance=random.randint(1,12)
         if getting_team_name:
             return 'nice chance'
@@ -1103,6 +1620,38 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             else:
                 return 'b'
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+        if getting_team_name:
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 
 
@@ -1117,6 +1666,36 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 10:
         if getting_team_name:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/master
             return 'player 10 final'
         else:
             # use history, opponent_history, score, opponent_score
@@ -1127,6 +1706,16 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c' # collude if partner colluded in the last three rounds
             else:
                 return 'b' #betray if partner only betrayed in the last three rounds
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 
 
@@ -1141,12 +1730,55 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 11:
         if getting_team_name:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> origin/master
             return 'Albert'
         else:
             if len(opponent_history)==0:
                 return 'c'
             else:
                 return opponent_history[-1]
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+            return 'loyal vengeful'
+        else:
+            # use history, opponent_history, score, opponent_score
+            # to compute your strategy
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                return 'c' #otherwise collude
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
 
 
 
@@ -1167,7 +1799,19 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             # use history, opponent_history, score, opponent_score
             # to compute your strategy
             if len(opponent_history)==0: #It's the first round: collude
+<<<<<<< HEAD
                 return 'b'
+=======
+<<<<<<< HEAD
+                return 'c'
+=======
+<<<<<<< HEAD
+                return 'c'
+=======
+                return 'b'
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray is they were severely punished last time
             else:
@@ -1181,12 +1825,34 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #
     elif player == 13:
         if getting_team_name:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
             return 'backstabber/loyalJG'
         else:
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='c':
+<<<<<<< HEAD
                 return 'b' # betray to gain if they collude again
+=======
+                return 'c' # betray to gain if they collude again
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+            return 'loyal vengeful'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
             else:
                 return 'c' #otherwise collude
     
@@ -1201,6 +1867,10 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     ######
     ######
     #
+<<<<<<< HEAD
+    elif player == 5:
+        if getting_team_name:
+=======
     elif player == 14:
         if getting_team_name:
             return 'Isaiah'
@@ -1210,7 +1880,34 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
             elif opponent_history[-1]=='b':
                 return 'b'
             else:
+<<<<<<< HEAD
                 return 'c'
+=======
+                return 'cc'
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+            return 'loyal vengeful occasionally greedy'
+        else:
+            if len(opponent_history)==0: #It's the first round: collude
+                return 'c'
+            elif history[-1]=='c' and opponent_history[-1]=='b':
+                return 'b' # betray is they were severely punished last time
+            else:
+                if random.random()<0.1: #10% of the other rounds
+                    return 'b'         #betray
+                else:
+                    return 'c'         #otherwise collude
+    
+    
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> refs/remotes/csesbeaucha/master
+>>>>>>> origin/master
     
     
 
